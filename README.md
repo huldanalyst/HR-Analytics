@@ -2,18 +2,16 @@
 Human Resources Analytics - A Microsoft Excel and SQL project 
 
 ## Analysis
-Data analysis was conducted in MySQL, with views created using the queries below:
+Data analysis was conducted in `MySQL`, with views created for various reports and dashboards, using the queries below:
 
+
+#### Performance and Satisfaction
 ```
- # Performance and Satisfaction
-
-
 CREATE VIEW `average los per year (table)` AS 
 SELECT YEAR(StartDate) year, ROUND(SUM(length_of_service)/COUNT(EmpID)) 'average length of service'
 FROM employee_data
 GROUP BY year
 ORDER BY year;
-
 
 CREATE VIEW `employee count by performance score` AS
 SELECT `Performance Score`, COUNT(*) employee_count
@@ -43,9 +41,10 @@ ON EmpID = `Employee ID`
 WHERE ExitDate IS NULL
 GROUP BY year, DepartmentType
 ORDER BY year;
+```
     
-# Workforce Administration (Turnover & Recruitment)
-
+### Workforce Administration (Turnover & Recruitment)
+```
 CREATE VIEW `acceptance/recruitment rate per state` AS
 WITH offered_count AS (
 	SELECT Country, Status, COUNT(*) new_staff_count
@@ -112,9 +111,10 @@ JOIN involuntary_count_per_year
 USING (year)
 GROUP BY year
 ORDER BY year;
+```
 
-# Human Resource Training (and Development)
-
+### Human Resource Training (and Development)
+```
 CREATE VIEW `incomplete vs complete_assessed` AS
 WITH training_duration_count AS (
 	SELECT DISTINCT `Training Outcome`, COUNT(*) employee_count
