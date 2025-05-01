@@ -1,6 +1,10 @@
  # HR Analytics
 > Human Resources Analytics - A Microsoft Excel and SQL project
 
+## Project Overview
+![image](https://github.com/user-attachments/assets/dac85895-77fd-4008-9735-395c20f2cb82)
+
+
 ## Analysis
 Data analysis was conducted in `MySQL`, with views created for various reports and dashboards, using the queries below:
 
