@@ -6,11 +6,13 @@ Data analysis was conducted in MySQL, with views created using the queries below
 
 ` # Performance and Satisfaction
 
+`
 CREATE VIEW `average los per year (table)` AS 
 SELECT YEAR(StartDate) year, ROUND(SUM(length_of_service)/COUNT(EmpID)) 'average length of service'
 FROM employee_data
 GROUP BY year
 ORDER BY year;
+'
 
 CREATE VIEW `employee count by performance score` AS
 SELECT `Performance Score`, COUNT(*) employee_count
