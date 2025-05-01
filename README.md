@@ -4,15 +4,16 @@ Human Resources Analytics - A Microsoft Excel and SQL project
 ## Analysis
 Data analysis was conducted in MySQL, with views created using the queries below:
 
-` # Performance and Satisfaction
+```
+ # Performance and Satisfaction
 
-`
+
 CREATE VIEW `average los per year (table)` AS 
 SELECT YEAR(StartDate) year, ROUND(SUM(length_of_service)/COUNT(EmpID)) 'average length of service'
 FROM employee_data
 GROUP BY year
 ORDER BY year;
-'
+
 
 CREATE VIEW `employee count by performance score` AS
 SELECT `Performance Score`, COUNT(*) employee_count
@@ -122,5 +123,6 @@ WITH training_duration_count AS (
 	)
 SELECT employee_count incomplete_count, (SELECT SUM(employee_count) FROM training_duration_count WHERE `Training Outcome` NOT LIKE 'In%') 'completed_assessed_count'
 FROM training_duration_count
-WHERE `Training Outcome` LIKE 'In%'; `
+WHERE `Training Outcome` LIKE 'In%';
+```
 
