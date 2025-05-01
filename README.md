@@ -132,3 +132,7 @@ WHERE `Training Outcome` LIKE 'In%';
 
 ## Power Query 
 To enable slicer connectivity and interactivity in Excel, a full outer join of relevant tables was performed within Excel's Power Query. This was necessary because MySQL does not natively support full outer joins, and the views created had dissimilar structures that made a UNION approach unfeasible.
+
+## Excel
+
+[a](https://1drv.ms/p/c/b40f3ebe85ad7dac/EcRcAxxmad5GqvF1QVpoKjMBzryn2QA9xRjLhOYFAcL3Qw?e=xqvzSh)
