@@ -136,4 +136,4 @@ To enable slicer connectivity and interactivity in Excel, a full outer join of r
 ## Full Project Report
 [Read the full write-up on Medium](https://bit.ly/4iDaoZQ)
 
-You may also want to view snippets of my Excel file
+[You may also want to view snippets of my Excel workbook](https://1drv.ms/f/c/b40f3ebe85ad7dac/EioaWbaL6ddKu50asbHtAacBtUvw7Kc4VSNFy_5JubTa8g?e=QAfRas)
