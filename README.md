@@ -126,3 +126,5 @@ FROM training_duration_count
 WHERE `Training Outcome` LIKE 'In%';
 ```
 
+## Power Query 
+To enable slicer connectivity and interactivity in Excel, a `full outer join` of relevant tables was performed within Excel's `Power Query`. This was necessary because `MySQL` does not natively support `full outer joins`, and the views created had dissimilar structures that made a `UNION` approach unfeasible.
