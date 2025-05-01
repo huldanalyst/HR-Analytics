@@ -1,5 +1,5 @@
-# HR Analytics
-Human Resources Analytics - A Microsoft Excel and SQL project 
+> # HR Analytics
+> (Human Resources Analytics - A Microsoft Excel and SQL project)
 
 ## Analysis
 Data analysis was conducted in `MySQL`, with views created for various reports and dashboards, using the queries below:
