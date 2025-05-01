@@ -6,7 +6,7 @@ In every organization, there is a need for resource management. HR Analytics pro
 
 
 ## Analysis
-Data analysis was conducted in `MySQL`, with views created for the various segments of the project using the queries below:
+Data analysis was conducted in **MySQL**, with views created for the various segments of the project using the queries below:
 
 
 #### Performance and Satisfaction
