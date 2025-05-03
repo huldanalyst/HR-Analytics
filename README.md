@@ -3,6 +3,11 @@
 
 ![hr analytics](https://github.com/user-attachments/assets/842fda39-b883-4abe-a2c3-5bba712109f6)
 
+https://1drv.ms/i/c/b40f3ebe85ad7dac/Eej_pXx17mdIoISJynFcCSABGN4uXThbnCsKgtXT0mekOg?e=Dmble6
+
+![hr analytics](https://onedrive.live.com/?cid=B40F3EBE85AD7DAC&q=hr%20analytics&scope=drive&id=B40F3EBE85AD7DAC%21s7ca5ffe8ee754867a08489ca715c0920&parId=root&parQt=search&o=OneUp)
+
+
 ## Project Scope
 
 In every organization, there is a need for resource management. HR Analytics provides insights into the management of the one of the invaluable kinds of resources- Human. This project provides valuable insights into the management of employees within an organization, analysing trends and behavioural patterns in respect with managerial services of the company. This project analyses employees’ performance and satisfaction index, turnover and recruitment of employees, as well as employees’ engagement in human resource training.
