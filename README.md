@@ -3,7 +3,6 @@
 
 ![hr analytics](https://github.com/user-attachments/assets/842fda39-b883-4abe-a2c3-5bba712109f6)
 
-!(https://github.com/user-attachments/assets/842fda39-b883-4abe-a2c3-5bba712109f6)
 
 <!--https://1drv.ms/i/c/b40f3ebe85ad7dac/Eej_pXx17mdIoISJynFcCSABGN4uXThbnCsKgtXT0mekOg?e=Dmble6
 
