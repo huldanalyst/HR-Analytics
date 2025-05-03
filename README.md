@@ -1,7 +1,7 @@
  # HR Analytics
 > Human Resources Analytics - [A Microsoft Excel and SQL project](https://github.com/huldanalyst/Data-Analytics-Projects?tab=readme-ov-file#microsoft-excel-and-mysql-projects)
 
-![hr analytics](https://github.com/user-attachments/assets/842fda39-b883-4abe-a2c3-5bba712109f6) 
+![hr analytics](https://github.com/user-attachments/assets/842fda39-b883-4abe-a2c3-5bba712109f6)
 
 ## Project Scope
 
