@@ -1,8 +1,8 @@
  # HR Analytics
 > Human Resources Analytics - [A Microsoft Excel and SQL project](https://github.com/huldanalyst/Data-Analytics-Projects?tab=readme-ov-file#microsoft-excel-and-mysql-projects)
-
+<br>
 ![hr analytics](https://github.com/user-attachments/assets/842fda39-b883-4abe-a2c3-5bba712109f6)
-
+<br>
 ## Project Scope
 
 In every organization, there is a need for resource management. HR Analytics provides insights into the management of the one of the invaluable kinds of resources- Human. This project provides valuable insights into the management of employees within an organization, analysing trends and behavioural patterns in respect with managerial services of the company. This project analyses employees’ performance and satisfaction index, turnover and recruitment of employees, as well as employees’ engagement in human resource training.
